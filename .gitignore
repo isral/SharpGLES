@@ -1,9 +1,10 @@
 *.suo
-
+/lib/native/*.dll
 /Nuspec/*.bat
 /Nuspec/*.exe
 /Nuspec/*.nupkg
 *.user
+.vs/
 obj/
 bin/
 packages/
